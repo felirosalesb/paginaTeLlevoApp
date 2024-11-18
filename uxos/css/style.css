@@ -34,7 +34,7 @@ body {
 
 .heading_container h2 {
   font-weight: bold;
-  color: #1d1e31;
+  color: #000dff;
   text-align: center;
   position: relative;
   padding-bottom: 10px;
@@ -44,7 +44,7 @@ body {
   content: "";
   width: 100px;
   height: 1px;
-  background-color: #8547ca;
+  background-color: #0502ce;
   position: absolute;
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -230,7 +230,7 @@ a:focus {
   text-transform: uppercase;
   font-size: 24px;
   font-weight: 700;
-  color: #8547ca;
+  color: #1502c4;
   margin-top: 5px;
 }
 
@@ -294,7 +294,7 @@ a:focus {
 .slider_section .detail-box h1 {
   text-transform: uppercase;
   font-weight: bold;
-  color: #8547ca;
+  color: #0026ff;
   font-size: 5.5rem;
 }
 
